@@ -18,7 +18,7 @@ body{
 }
 
 .main{
-    margin-top:300px;
+    margin-top:150px;
     text-align:center;
 }
 
@@ -28,10 +28,10 @@ body{
 
 .input-box{
     box-shadow: 0 5px 6px rgba(150, 150, 150, 0.1);
-    width:582px;
+    width:482px;
     height:46px;
     border-radius: 24px;
-    border: 1px solid #dfe1e5;
+    border: 1px solid #b5c3e0;
     padding-left:45px;
     padding-right:45px;
     
@@ -40,13 +40,13 @@ body{
 .search-icon{
     position:relative;
     left:40px;
-    color: #9aa0a6;
+    color: #4388cd;
 }
 
 .mic-icon{
     position:relative;
     right:40px;
-    color: #9aa0a6;
+    color: #4388cd;
 }
 
 .button-area{
@@ -109,6 +109,7 @@ body{
 
 .second-line a:hover{
     text-decoration: underline;
+    color:#0979ea
 }
 
 .language-area{
